@@ -5,9 +5,9 @@ const cors = require('cors')
 const app = express();
 const port = process.env.PORT || 8080
 
+app.use(cors());
 app.disable('x-powered-by');
 app.use(bodyParser.json());
-app.use(cors());
 require('dotenv').load();
 
 if (process.env.NODE_ENV !== 'production') {
