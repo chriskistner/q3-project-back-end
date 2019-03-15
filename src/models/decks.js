@@ -5,7 +5,7 @@ function getAll(userId) {
     .leftJoin('decks', 'users.id', 'decks.user_id')
     .where({user_id: userId})
     .orderBy('decks.created_at', 'desc')
-    .orderBy('decks.deck_name.name', 'asc')
+    .orderBy('decks.deck_name', 'asc')
     .returning('*')
 };
 
