@@ -14,7 +14,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 1,
           colorless: 0,
-          api_id: 'bcec34f6-3ad0-5e68-90e2-f74cddebe336'
+          api_id: 26757
         },
         {
           id: 2,
@@ -25,7 +25,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: '7b6ed2b2-b8c8-5b35-9f10-568bbfce159a'
+          api_id: 707
         },
         {
           id: 3,
@@ -36,7 +36,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 1,
-          api_id: 'b5a13898-fabc-536c-9d31-7108d169d7e3'
+          api_id: 130900
         },
         {
           id: 4,
@@ -47,7 +47,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 1,
           colorless: 1,
-          api_id: 'abb702c9-db9f-54dc-ad73-87d69ecaa616'
+          api_id: 130489
         },
         {
           id: 5,
@@ -58,7 +58,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 1,
           colorless: 1,
-          api_id: '3c7a1d34-c9e1-5c34-878b-e41059e4c1fe'
+          api_id: 19633
         },
         {
           id: 6,
@@ -69,7 +69,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: 'd678d49d-2bf2-504f-a99f-71790f26ee40'
+          api_id: 25557
         },
         {
           id: 7,
@@ -80,7 +80,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: '751e77a1-b113-5c5f-a6ef-b85e2d3c560a'
+          api_id: 3897
         },
         {
           id: 8,
@@ -91,7 +91,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 1,
-          api_id: 'dc276e0a-227e-563d-8a63-c4a03846393d'
+          api_id: 189255
         },
         {
           id: 9,
@@ -102,7 +102,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 2,
-          api_id: '50b1c60b-2ceb-581b-b0c9-5504ad777c54'
+          api_id: 222766
         },
         {
           id: 10,
@@ -113,7 +113,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 3,
-          api_id: '7a57924c-801b-57af-b854-fb6a61fb8685'
+          api_id: 3107
         },
         {
           id: 11,
@@ -124,7 +124,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 4,
-          api_id: '868d6f36-65aa-5047-b203-7a42fa6d1214'
+          api_id: 189258
         },
         {
           id: 12,
@@ -135,7 +135,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 2,
-          api_id: 'f54aeaa6-fb81-5f7f-8d86-fbe398f5d089'
+          api_id: 643
         },
         {
           id: 13,
@@ -146,7 +146,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: ''
+          api_id: 45240
         },
         {
           id: 14,
@@ -157,7 +157,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: 'c7dbbc27-f74e-52c9-b974-75c675d73e57'
+          api_id: 129606
         },
         {
           id: 15,
@@ -168,7 +168,7 @@ exports.seed = function(knex, Promise) {
           black: 0,
           green: 0,
           colorless: 0,
-          api_id: 'ee3e9e61-3136-5bce-9af6-37b7f44b93f4'
+          api_id: 884
         }
       ])
     })

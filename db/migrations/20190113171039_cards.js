@@ -8,7 +8,7 @@ exports.up = function(knex, Promise) {
     table.integer('black').notNullable().defaultsTo(0)
     table.integer('green').notNullable().defaultsTo(0)
     table.integer('colorless').notNullable().defaultsTo(0)
-    table.string('api_id').notNullable()
+    table.integer('api_id').notNullable()
   })
 }
 
